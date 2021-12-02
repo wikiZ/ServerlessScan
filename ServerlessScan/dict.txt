@@ -1,0 +1,16 @@
+/intraAdmin/phpmyadmin/db_create.php
+/phpmyadmin/db_create.php
+/intraAdmin/admin.php
+/do/reg.php
+/tag.php
+/BlueLotus_XSSReceiver-master/waf.php
+/BlueLotus_XSSReceiver-master/admin.php
+/wp-admin/install.php
+/wp-admin/admin-ajax.php
+/Html/fckeditor/
+/admin/admin.php
+/admin.php
+/SEM_User/admin_php/
+/index.php
+/index.html
+

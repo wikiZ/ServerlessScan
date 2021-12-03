@@ -22,8 +22,8 @@ def dict_read(dict_file, num):
 def main():
     from get_ua_header import UA
     number = 0
-    severless = ["https://service-7pdfhbye-1259312707.gz.apigw.tencentcs.com",
-                 "https://service-lz5qmdaf-1259312707.sh.apigw.tencentcs.com"]
+    severless = ["https://service-7pdfhbye-xxxxxxx.gz.apigw.tencentcs.com",
+                 "https://service-lz5qmdaf-xxxxxxx.sh.apigw.tencentcs.com"]
     try:
         url = input("\033[31;32mplease input url:\033[0m")
         dict_file_path = input("\033[32;32mplease input crash dict path:\033[0m")

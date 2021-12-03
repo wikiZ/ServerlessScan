@@ -10,8 +10,8 @@ import grequests
 
 
 def main():
-    serverless = ["https://service-eiqw47lb-1259312707.cd.apigw.tencentcs.com",
-                  "https://service-9steegcp-1259312707.sh.apigw.tencentcs.com"]
+    serverless = ["https://service-eiqw47lb-xxxxxx.cd.apigw.tencentcs.com",
+                  "https://service-9steegcp-xxxxxx.sh.apigw.tencentcs.com"]
     resp, num = [], 0
     port_one = [22, 53, 80, 81, 82, 83, 111, 9096, 9291, 9080, 6379, 5900, 9090, 443]
     port_two = [8088, 8080, 4566, 6666, 10001, 2443, 3306, 3389, 7001, 9099, 135, 23]
